@@ -5,7 +5,7 @@ export default class Home extends Component {
   render() {
     return (
         <div>
-            <h2>Home component works!!!</h2>
+          <h3>Welcome to my program!Today you gonna click in this pages to see my apps.Good luck and have fun!</h3>
         </div>
     );
   }

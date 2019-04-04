@@ -11,7 +11,13 @@ body {
   padding: 20px;
   margin: 0;
 }
+table, th, td {
+  border: 1px solid black;
+  margin-top: 20%;
+  text-align: justify;
+  margin-bottom:2cm;
 
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
